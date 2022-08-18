@@ -3,7 +3,7 @@ apache maven mvnd 的镜像
 
 # 生成镜像
 ```
-docker build -t mailbyms/mvnd:0.7.1-jdk-8 .
+docker build -t mailbyms/mvnd:0.8.0-jdk-8 .
 ```
 
 # 注意事项
